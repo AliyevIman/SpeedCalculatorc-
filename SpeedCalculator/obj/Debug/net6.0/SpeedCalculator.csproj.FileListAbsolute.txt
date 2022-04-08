@@ -1,0 +1,15 @@
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\bin\Debug\net6.0\SpeedCalculator.exe
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\bin\Debug\net6.0\SpeedCalculator.deps.json
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\bin\Debug\net6.0\SpeedCalculator.runtimeconfig.json
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\bin\Debug\net6.0\SpeedCalculator.dll
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\bin\Debug\net6.0\SpeedCalculator.pdb
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net6.0\SpeedCalculator.csproj.AssemblyReference.cache
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net6.0\SpeedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net6.0\SpeedCalculator.AssemblyInfoInputs.cache
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net6.0\SpeedCalculator.AssemblyInfo.cs
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net6.0\SpeedCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net6.0\SpeedCalculator.dll
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net6.0\refint\SpeedCalculator.dll
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net6.0\SpeedCalculator.pdb
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net6.0\SpeedCalculator.genruntimeconfig.cache
+C:\Users\Iman\source\repos\SpeedCalculator\SpeedCalculator\obj\Debug\net6.0\ref\SpeedCalculator.dll
